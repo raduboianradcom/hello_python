@@ -9,7 +9,7 @@ health = HealthCheck()
 
 
 def check_available():
-    return True, "redis ok"
+    return True, "ok"
 
 
 health.add_check(check_available)
