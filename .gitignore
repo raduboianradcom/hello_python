@@ -5,6 +5,7 @@
 ### Helm ###
 # Chart dependencies
 **/charts/*.tgz
+*.tgz
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
